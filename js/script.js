@@ -23,14 +23,6 @@ const personalMovieDB = {
 
 
 
-//const a = prompt("Your last film?", ""),
-//      b = prompt("Do you like it?", ""),
-      
-
-//personalMovieDB.movies[a] = b;
-//personalMovieDB.movies[c] = d;
-
-//console.log(personalMovieDB);
 
 function rememberMyFilms() {
 for (let i = 0; i < 2; i++) {
@@ -80,10 +72,4 @@ function writeYourGenres() {
 
 writeYourGenres();
       
-//console.log(personalMovieDB);
-
-
-//function showMyDB(privat) {
-  //console.log(showMyDB); 
-//} 
 
